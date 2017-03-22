@@ -1,0 +1,17 @@
+{
+  "name": "bitcrank",
+  "description": "Bitcrank Portfolio",
+  "main": "index.js",
+  "authors": [
+    "Chris Greeff <chris.r.greeff@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/chrisgreeff/bitcrank",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
